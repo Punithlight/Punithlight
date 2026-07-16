@@ -2,9 +2,9 @@
 
 **BCA Student | Aspiring Full Stack Developer**
 
-[![Email](https://img.shields.io/badge/Email-punithnd2004%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:punithnd2004@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%2093532%2015498-brightgreen?style=flat-square)](tel:+919353215498)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Punith%20N%20D-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-punithnd2004%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:punithnd2004@gmail.com)<br>
+[![Phone](https://img.shields.io/badge/Phone-%2B91%2093532%2015498-brightgreen?style=flat-square)](tel:+919353215498)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Punith%20N%20D-blue?style=flat-square&logo=linkedin)](https://linkedin.com)<br>
 [![GitHub](https://img.shields.io/badge/GitHub-Punithlight-black?style=flat-square&logo=github)](https://github.com/Punithlight)
 
 ---
