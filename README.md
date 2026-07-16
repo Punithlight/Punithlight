@@ -96,31 +96,6 @@ A real-world, feature-rich blogging system built with Django covering models, te
 
 ---
 
-## 💪 SKILLS & EXPERTISE
-
-### Frontend Development
-| Skill | Proficiency |
-|-------|-------------|
-| HTML & CSS | 90% ████████░ |
-| JavaScript | 80% ███████░░ |
-| React | 70% ███████░░░ |
-
-### Backend & Database
-| Skill | Proficiency |
-|-------|-------------|
-| Python | 85% ████████░ |
-| Django | 75% ███████░░ |
-| SQL | 70% ███████░░░ |
-
-### Tools & Technologies
-| Skill | Proficiency |
-|-------|-------------|
-| Git & GitHub | 80% ███████░░ |
-| REST APIs | 75% ███████░░ |
-| VS Code | 90% ████████░ |
-
----
-
 ## 🏆 CERTIFICATIONS
 
 - 🎓 **Python Full Stack Development** — Dhee Coding Lab *(Pursuing)*
@@ -144,6 +119,6 @@ A real-world, feature-rich blogging system built with Django covering models, te
 
 ### ⭐ Feel free to explore my projects and connect with me!
 
-**Made with ❤️ by Punith N D**
+✨ “Always curious to learn, build, and solve real-world problems with technology.”
 
 </div>
