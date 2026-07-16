@@ -108,7 +108,6 @@ A real-world, feature-rich blogging system built with Django covering models, te
 | Contact Method | Details |
 |---|---|
 | 📧 **Email** | [punithnd2004@gmail.com](mailto:punithnd2004@gmail.com) |
-| 📱 **Phone** | +91 93532 15498 |
 | 🌍 **Location** | Bengaluru, Karnataka |
 | 💼 **LinkedIn** | [Connect](https://linkedin.com) |
 | 🐙 **GitHub** | [Follow](https://github.com/Punithlight) |
