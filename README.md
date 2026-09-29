@@ -19,9 +19,9 @@ Motivated and detail-oriented Full Stack Developer with strong proficiency in **
 ## 🎓 EDUCATION
 
 ### Vasavi Jnana Peetha First Grade College
-**Bachelor of Computer Applications (BCA)** | **CGPA: 8.3**
+**Bachelor of Computer Applications (BCA)** | **CGPA: 8.14**
 
-Pursuing BCA with a strong focus on full-stack web development, database management, and software engineering. Building expertise in modern web technologies including React, Django, and Python, while developing practical skills through real-world projects and internship experience.
+Completed BCA with a strong focus on full-stack web development, database management, and software engineering. Building expertise in modern web technologies including React, Django, and Python, while developing practical skills through real-world projects and internship experience.
 
 ---
 
@@ -97,7 +97,7 @@ A real-world, feature-rich blogging system built with Django covering models, te
 
 ## 🏆 CERTIFICATIONS
 
-- 🎓 **Python Full Stack Development** — Dhee Coding Lab *(Pursuing)*
+- 🎓 **Python Full Stack Development** — Dhee Coding Lab
 - 🎓 **Project Development & Management** — Glovish Technologies
 
 ---
