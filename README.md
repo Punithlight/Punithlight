@@ -28,7 +28,7 @@ Pursuing BCA with a strong focus on full-stack web development, database managem
 ## 💼 INTERNSHIPS & EXPERIENCE
 
 ### 🧑‍💻 Dhee Coding Lab
-**Python Full Stack Internship** | *Pursuing*
+**Python Full Stack Internship** | 
 - Gaining hands-on experience in Frontend development with HTML, CSS, JavaScript, and React
 - Working with databases and building full-stack application workflows
 - Developing practical skills in Python, Django framework, and REST API integration
